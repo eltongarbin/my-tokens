@@ -1,3 +1,9 @@
+## [1.3.1](https://github.com/eltongarbin/my-tokens/compare/v1.3.0...v1.3.1) (2021-06-09)
+
+### Bug Fixes
+
+- **opacity:** change level medium ([51b2a5c](https://github.com/eltongarbin/my-tokens/commit/51b2a5c32b222afc517dae3b75e4c9926398c65b))
+
 # [1.3.0](https://github.com/eltongarbin/my-tokens/compare/v1.2.1...v1.3.0) (2021-06-09)
 
 ### Features
