@@ -1,3 +1,17 @@
+# [3.0.0-next.1](https://github.com/eltongarbin/my-tokens/compare/v2.0.0...v3.0.0-next.1) (2021-06-09)
+
+
+### Features
+
+* shrink import path ([7dbdcce](https://github.com/eltongarbin/my-tokens/commit/7dbdcce80229aef969b9a59dfceb6a7ca84ab5a9))
+* **web:** rename tokens.module.js to tokens.js ([acd8cf7](https://github.com/eltongarbin/my-tokens/commit/acd8cf7ec1a78cfde40fa581adaa06f8b937ba90))
+
+
+### BREAKING CHANGES
+
+* omit the directory '/dist' of the imports path
+* **web:** normalizes tokens filename for web renaming js exported
+
 # [2.0.0](https://github.com/eltongarbin/my-tokens/compare/v1.3.1...v2.0.0) (2021-06-09)
 
 ### Features
