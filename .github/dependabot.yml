@@ -5,7 +5,7 @@ updates:
     schedule:
       interval: 'weekly'
     reviewers:
-      - 'ocean-ds/developers'
+      - 'eltongarbin/developers'
     assignees:
       - 'SauloSilva'
     commit-message:

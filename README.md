@@ -3,19 +3,19 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/ocean-ds/ocean-tokens/actions">
-    <img alt="Actions Status" src="https://github.com/ocean-ds/ocean-tokens/workflows/CI/badge.svg">
+  <a href="https://github.com/eltongarbin/my-tokens/actions">
+    <img alt="Actions Status" src="https://github.com/eltongarbin/my-tokens/workflows/CI/badge.svg">
   </a>
   <a href="https://sonarcloud.io/dashboard?id=ocean-ds_ocean-tokens">
     <img alt="Sonarcloud Status" src="https://sonarcloud.io/api/project_badges/measure?project=ocean-ds_ocean-tokens&metric=alert_status">
   </a>
-  <a href="https://github.com/ocean-ds/ocean-tokens/blob/master/LICENSE">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/ocean-ds/ocean-tokens">
+  <a href="https://github.com/eltongarbin/my-tokens/blob/master/LICENSE">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/eltongarbin/my-tokens">
   </a>
-  <a href="https://github.com/ocean-ds/ocean-tokens/graphs/commit-activity">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ocean-ds/ocean-tokens">
+  <a href="https://github.com/eltongarbin/my-tokens/graphs/commit-activity">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltongarbin/my-tokens">
   </a>
-  <a href="https://github.com/ocean-ds/ocean-tokens/network/updates">
+  <a href="https://github.com/eltongarbin/my-tokens/network/updates">
     <img alt="Dependabot" src="https://img.shields.io/badge/Dependabot-enabled-brightgreen">
   </a>
   <a href="https://github.com/prettier/prettier">
@@ -32,20 +32,20 @@
   </a>
 </p>
 
-This project powered by [Theo](https://github.com/salesforce-ux/theo) provides design tokens to the [Ocean](https://zeroheight.com/9c9b2b3aa/p/257272-ocean-ds/t/968532) design system.
+This project powered by [Theo](https://github.com/salesforce-ux/theo) provides design tokens to the [Ocean](https://zeroheight.com/9c9b2b3aa/p/257272-eltongarbin/t/968532) design system.
 
 > Design tokens are the visual design atoms of the design system — specifically, they are named entities that store visual design attributes. We use them in place of hard-coded values (such as hex values for color or pixel values for spacing) in order to maintain a scalable and consistent visual system for UI development – [Salesforce UX](https://www.lightningdesignsystem.com/design-tokens/)
 
 ## Installation
 
 ```sh
-yarn add @useblu/ocean-icons-react
+yarn add @eltongarbin/ocean-icons-react
 ```
 
 or
 
 ```sh
-npm i @useblu/ocean-icons-react
+npm i @eltongarbin/ocean-icons-react
 ```
 
 ## Usage
@@ -60,7 +60,7 @@ import {
   fontWeightExtrabold,
   lineHeightMedium,
   colorInterfaceLightPure,
-} from '@useblu/tokens/dist/web/tokens.module.js';
+} from '@eltongarbin/tokens/dist/web/tokens.module.js';
 
 export const Heading1 = styled.h1`
   font-family: ${fontFamilyHighlight};
@@ -74,7 +74,7 @@ export const Heading1 = styled.h1`
 ### Sass
 
 ```scss
-@import '~@useblu/tokens/dist/web/tokens.scss';
+@import '~@eltongarbin/tokens/dist/web/tokens.scss';
 
 .h1 {
   font-family: $font-family-highlight;
@@ -99,7 +99,7 @@ Read our [contributing guide](.github/CONTRIBUTING.md) to learn about our develo
 
 ### Good First Issues
 
-To help you get your feet wet and get you familiar with our contribution process, we have a list of [good first issues](https://github.com/ocean-ds/ocean-tokens/labels/good%20first%20issue) that contain bugs which have a relatively limited scope. This is a great place to get started.
+To help you get your feet wet and get you familiar with our contribution process, we have a list of [good first issues](https://github.com/eltongarbin/my-tokens/labels/good%20first%20issue) that contain bugs which have a relatively limited scope. This is a great place to get started.
 
 ## License
 

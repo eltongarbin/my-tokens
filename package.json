@@ -1,5 +1,5 @@
 {
-  "name": "@useblu/tokens",
+  "name": "@eltongarbin/tokens",
   "version": "2.0.1",
   "private": false,
   "description": "Design Tokens for the Ocean Design System",
@@ -23,11 +23,11 @@
     "theo",
     "design-system"
   ],
-  "homepage": "https://ocean-ds.github.io/ocean-tokens/",
-  "bugs": "https://github.com/ocean-ds/ocean-tokens/issues",
+  "homepage": "https://eltongarbin.github.io/my-tokens/",
+  "bugs": "https://github.com/eltongarbin/my-tokens/issues",
   "license": "GPL-3.0",
-  "author": "Blu Pagamentos <devs@useblu.com.br>",
-  "repository": "git+https://github.com/ocean-ds/ocean-tokens.git",
+  "author": "Blu Pagamentos <devs@eltongarbin.com.br>",
+  "repository": "git+https://github.com/eltongarbin/my-tokens.git",
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^12.1.4",
