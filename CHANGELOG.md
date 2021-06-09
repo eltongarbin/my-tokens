@@ -1,3 +1,10 @@
+# [3.0.0-next.2](https://github.com/eltongarbin/my-tokens/compare/v3.0.0-next.1...v3.0.0-next.2) (2021-06-09)
+
+
+### Features
+
+* **radius:** adjust border width heavy ([a2cfdc6](https://github.com/eltongarbin/my-tokens/commit/a2cfdc67b03d53152d186f8613176ae0fa889549))
+
 # [3.0.0-next.1](https://github.com/eltongarbin/my-tokens/compare/v2.0.0...v3.0.0-next.1) (2021-06-09)
 
 
