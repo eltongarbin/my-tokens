@@ -1,6 +1,6 @@
 {
   "name": "@eltongarbin/tokens",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "private": false,
   "description": "Design Tokens for the Ocean Design System",
   "files": [
