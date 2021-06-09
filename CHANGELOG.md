@@ -1,13 +1,8 @@
-# Change Log
-
 # [1.2.0](https://github.com/eltongarbin/my-tokens/compare/v1.1.0...v1.2.0) (2021-06-09)
 
 ### Features
 
 - change opacity-level-medium token ([c91d6ef](https://github.com/eltongarbin/my-tokens/commit/c91d6eff193fd83100181e0842f46b61db621a04))
-
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
 ## [1.1.0](https://github.com/eltongarbin/my-tokens/compare/v1.0.0...v1.1.0) (2021-06-09)
 
