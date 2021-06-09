@@ -4,7 +4,7 @@ global:
   category: pallete-color
 
 aliases:
-  color-brand-primary-pure: '#0025E0'
+  color-brand-primary-pure: '#B8C3FF'
   color-brand-primary-up: '#B8C3FF'
   color-brand-primary-down: '#5872F5'
   color-brand-primary-deep: '#0E248F'
