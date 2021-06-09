@@ -6,6 +6,6 @@ global:
 aliases:
   opacity-level-semiopaque: .8
   opacity-level-intense: .64
-  opacity-level-medium: .42
+  opacity-level-medium: .46
   opacity-level-light: .15
   opacity-level-semitransparent: .09
