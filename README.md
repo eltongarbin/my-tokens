@@ -60,7 +60,7 @@ import {
   fontWeightExtrabold,
   lineHeightMedium,
   colorInterfaceLightPure,
-} from '@eltongarbin/tokens/dist/web/tokens.module.js';
+} from '@eltongarbin/my-tokens/dist/web/tokens.module.js';
 
 export const Heading1 = styled.h1`
   font-family: ${fontFamilyHighlight};
@@ -74,7 +74,7 @@ export const Heading1 = styled.h1`
 ### Sass
 
 ```scss
-@import '~@eltongarbin/tokens/dist/web/tokens.scss';
+@import '~@eltongarbin/my-tokens/dist/web/tokens.scss';
 
 .h1 {
   font-family: $font-family-highlight;
