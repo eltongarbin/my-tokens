@@ -17,4 +17,4 @@ props:
     value: '4px'
 
   - name: border-width-heavy
-    value: '8px'
+    value: '10px'
