@@ -32,13 +32,13 @@
 
 - change opacity-level-medium token ([c91d6ef](https://github.com/eltongarbin/my-tokens/commit/c91d6eff193fd83100181e0842f46b61db621a04))
 
-## [1.1.0](https://github.com/eltongarbin/my-tokens/compare/v1.0.0...v1.1.0) (2021-06-09)
+# [1.1.0](https://github.com/eltongarbin/my-tokens/compare/v1.0.0...v1.1.0) (2021-06-09)
 
 ### Features
 
 - change token for tests ([a136d98](https://github.com/eltongarbin/my-tokens/commit/a136d98ca57f22aded993b2f796eccb56c7190f9))
 
-## 1.0.0 (2021-06-09)
+# 1.0.0 (2021-06-09)
 
 ### Bug Fixes
 
