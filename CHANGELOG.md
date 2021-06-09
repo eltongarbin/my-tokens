@@ -1,3 +1,20 @@
+# [3.0.0](https://github.com/eltongarbin/my-tokens/compare/v2.0.0...v3.0.0) (2021-06-09)
+
+
+### Features
+
+* change pkg name to my-tokens ([aa8040f](https://github.com/eltongarbin/my-tokens/commit/aa8040fa9f62d0de0ab36249e288afab19f898ea))
+* **radius:** adjust border width heavy ([a2cfdc6](https://github.com/eltongarbin/my-tokens/commit/a2cfdc67b03d53152d186f8613176ae0fa889549))
+* shrink import path ([7dbdcce](https://github.com/eltongarbin/my-tokens/commit/7dbdcce80229aef969b9a59dfceb6a7ca84ab5a9))
+* **web:** rename tokens.module.js to tokens.js ([acd8cf7](https://github.com/eltongarbin/my-tokens/commit/acd8cf7ec1a78cfde40fa581adaa06f8b937ba90))
+
+
+### BREAKING CHANGES
+
+* change pkg name from @eltongarbin/tokens to @eltongarbin/my-tokens
+* omit the directory '/dist' of the imports path
+* **web:** normalizes tokens filename for web renaming js exported
+
 # [3.0.0-next.3](https://github.com/eltongarbin/my-tokens/compare/v3.0.0-next.2...v3.0.0-next.3) (2021-06-09)
 
 
