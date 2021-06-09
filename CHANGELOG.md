@@ -1,3 +1,15 @@
+# [3.0.0-next.3](https://github.com/eltongarbin/my-tokens/compare/v3.0.0-next.2...v3.0.0-next.3) (2021-06-09)
+
+
+### Features
+
+* change pkg name to my-tokens ([aa8040f](https://github.com/eltongarbin/my-tokens/commit/aa8040fa9f62d0de0ab36249e288afab19f898ea))
+
+
+### BREAKING CHANGES
+
+* change pkg name from @eltongarbin/tokens to @eltongarbin/my-tokens
+
 # [3.0.0-next.2](https://github.com/eltongarbin/my-tokens/compare/v3.0.0-next.1...v3.0.0-next.2) (2021-06-09)
 
 
