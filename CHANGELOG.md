@@ -1,3 +1,9 @@
+# [1.1.0](https://github.com/eltongarbin/my-tokens/compare/v1.0.0...v1.1.0) (2021-06-09)
+
+### Features
+
+- change token for tests ([a136d98](https://github.com/eltongarbin/my-tokens/commit/a136d98ca57f22aded993b2f796eccb56c7190f9))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
