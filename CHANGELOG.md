@@ -1,3 +1,9 @@
+# [1.3.0](https://github.com/eltongarbin/my-tokens/compare/v1.2.1...v1.3.0) (2021-06-09)
+
+### Features
+
+- change opacity-level-semiopaque ([806136f](https://github.com/eltongarbin/my-tokens/commit/806136fba97d9aa2d0cf30238db47d2c452b720a))
+
 ## [1.2.1](https://github.com/eltongarbin/my-tokens/compare/v1.2.0...v1.2.1) (2021-06-09)
 
 ### Bug Fixes
