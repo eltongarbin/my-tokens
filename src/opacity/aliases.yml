@@ -4,7 +4,7 @@ global:
   category: pallete-color
 
 aliases:
-  opacity-level-semiopaque: .80
+  opacity-level-semiopaque: .8
   opacity-level-intense: .64
   opacity-level-medium: .42
   opacity-level-light: .15
