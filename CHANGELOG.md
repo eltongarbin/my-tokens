@@ -1,3 +1,9 @@
+## [1.2.1](https://github.com/eltongarbin/my-tokens/compare/v1.2.0...v1.2.1) (2021-06-09)
+
+### Bug Fixes
+
+- change opacity-level-light ([509bbc7](https://github.com/eltongarbin/my-tokens/commit/509bbc745677b4c33f9156e48b55e03e5422b553))
+
 # [1.2.0](https://github.com/eltongarbin/my-tokens/compare/v1.1.0...v1.2.0) (2021-06-09)
 
 ### Features
